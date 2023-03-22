@@ -1,16 +1,42 @@
-### Hi there 👋
+### 👋 Eae, eu sou Pedro Godoi! Um programador e entusiasta da tecnologia!
 
-<!--
-**pedrogodoir/pedrogodoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente me aprofundando em JavaScript, especialmente em [Next.JS](https://nextjs.org)(Framework para React), [Node.JS](https://nodejs.org/pt-br) e [Vue.JS](https://vuejs.org)
+- 🔍 Sempre procurando algo para fazer
 
-Here are some ideas to get you started:
+<picture>
+<source
+  height="199em"
+  srcset="https://github-readme-stats.vercel.app/api?username=pedrogodoir&show_icons=true&theme=midnight-purple&bg_color=111&hide_border=true&border_radius=5.5&text_color=EEE"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  height="199em"
+  srcset="https://github-readme-stats.vercel.app/api?username=pedrogodoir&show_icons=true&theme=midnight-purple&bg_color=EEE&hide_border=true&border_radius=5.5&text_color=111"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=pedrogodoir&show_icons=true" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+<source 
+  height="199em"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogodoir&layout=compact&theme=midnight-purple&bg_color=111&hide_border=true&border_radius=5.5&text_color=EEE"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  height="199em"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogodoir&layout=compact&theme=midnight-purple&bg_color=EEE&hide_border=true&border_radius=5.5&text_color=111"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=pedrogodoir&show_icons=true" />
+</picture>
+
+  <img align="right" width="100px" src="https://cdn.discordapp.com/attachments/893932444582023208/1088236587441213440/Art_Godoi_2.0_Rounded.png">
+  
+##
+
+<div style="display: inline-block; justfy-content: center;"> 
+  <a align="center" href="https://instagram.com/pedrogodoih" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a align="center" href = "mailto:pedrogodoiriva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a align="center" href="https://www.linkedin.com/in/pedrogodoih" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
