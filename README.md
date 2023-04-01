@@ -1,6 +1,6 @@
 ## 👋 Eae, eu sou Pedro Godoi! Um programador e entusiasta da tecnologia!
 
-- 🌱 Atualmente me aprofundando em JavaScript, especialmente em [Next.JS](https://nextjs.org)(Framework para React), [Node.JS](https://nodejs.org/pt-br) e [Vue.JS](https://vuejs.org)
+- 🌱 Atualmente me aprofundando em JavaScript, especialmente em [Vue.JS](https://vuejs.org) e [Node.JS](https://nodejs.org/pt-br)
 - 🔍 Sempre procurando algo para fazer
 
 <picture>
