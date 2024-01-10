@@ -4,20 +4,6 @@
 - 🔍 Sempre procurando algo para fazer
 
 <picture>
-<source
-  height="199em"
-  srcset="https://github-readme-stats.vercel.app/api?username=pedrogodoir&show_icons=true&theme=midnight-purple&bg_color=111&hide_border=true&border_radius=5.5&text_color=EEE"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  height="199em"
-  srcset="https://github-readme-stats.vercel.app/api?username=pedrogodoir&show_icons=true&theme=midnight-purple&bg_color=EEE&hide_border=true&border_radius=5.5&text_color=111"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=pedrogodoir&show_icons=true" />
-</picture>
-
-<picture>
 <source 
   height="199em"
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogodoir&layout=compact&theme=midnight-purple&bg_color=111&hide_border=true&border_radius=5.5&text_color=EEE"
