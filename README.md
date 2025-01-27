@@ -5,7 +5,7 @@
 <div style="display: inline-block; justfy-content: center;"> 
   <a align="center" href="https://instagram.com/pedrogodoih" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a align="center" href = "mailto:pedrogodoiriva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a align="center" href="https://www.linkedin.com/in/pedrogodoih" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a align="center" href="https://www.linkedin.com/in/pedrogodoir" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ## 💻 Technologies.
